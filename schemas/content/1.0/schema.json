@@ -177,12 +177,12 @@
             "items": {
                 "type": "string",
                 "enum": [
-                    "Learner",
-                    "Instructor",
-		    "Child"
+                    "Parent",
+                    "Teacher",
+		    "Education Leader (SMC, HM, CRP etc)"
                 ]
             },
-            "default": ["Learner"]
+            "default": ["Parent"]
         },
         "posterImage": {
             "type": "string",
