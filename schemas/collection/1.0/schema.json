@@ -176,7 +176,9 @@
         "enum": [
           "Parent",
           "Teacher",
-	  "Education Leader"
+	  "Education Leader",
+	  "Child",
+	  "Other"
         ]
       },
       "default": ["Parent"]
