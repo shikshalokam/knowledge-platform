@@ -184,7 +184,7 @@
 		    "Other"
                 ]
             },
-            "default": ["Parent"]
+            "default": []
         },
         "posterImage": {
             "type": "string",
