@@ -180,8 +180,7 @@
 	  "Child",
 	  "Other"
         ]
-      },
-      "default": []
+      }
     },
     "posterImage": {
       "type": "string",
